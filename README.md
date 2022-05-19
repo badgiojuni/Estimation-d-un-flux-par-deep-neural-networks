@@ -1,0 +1,2 @@
+# Estimation-d-un-flux-par-deep-neural-networks
+Le but de ce projet est de resoudre de maniere approchee, avec un reseau de neurones à la manière decrite dans l'article Bruno Despres and Herve Jourdren, Machine learning design of volume of fluid schemes for compressible flows. J. Comput. Phys. 408 (2020), des problemes de Cauchy d'equations de transport ou la donnee initiale est la fonction indicatrice d'un certain ouvert du domaine spatial
